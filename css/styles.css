@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    background-color: rgb(255, 194, 201);
+}
+
+.fondorojo {
+    background-color: red;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.fondomorado {
+    background-color: blueviolet;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.altura1 {
+   height: 4rem
+}
+
+.altura2 {
+   height: 25rem;
+}
+
+.altura3 {
+    height: 20rem;
+}
+
+.altura4 {
+    height: 20rem;
+}
+
+.altura5 {
+    height: 20rem;
+}
+
+.altura6 {
+    height: 5rem;
+}
+
+.altura7 {
+    height: 5rem;
+}
+
+.fondoamarillo {
+    background-color: yellow;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+.fondoazul {
+    background-color: blue;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
